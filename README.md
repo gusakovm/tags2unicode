@@ -1,4 +1,4 @@
-tags2unicode
+Tags2Unicode
 ============
 
 For OS X iTunes users, who have a problems with MP3 tags.
